@@ -1,8 +1,6 @@
-برای یادگیری و آموزش ساخت ربات ضد اسپم تلگرام  به سایت پرمگ مراجعه کنید 
-http://permag.ir
+لتنصيب السورس بكود واحد
 
-کانال ما
-@permag_ir
+git clone https://github.com/beko11/TH3SUBER.git && cd TH3SUBER && chmod +x TH3SUBER.sh && ./TH3SUBER.sh install && ./TH3SUBER.sh
 
-کانال ربات های ما 
-@permag_bots
+
+Dev:- telegram.me/
