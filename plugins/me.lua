@@ -25,7 +25,7 @@ elseif is_momod(msg) then
 end 
 return { 
     patterns ={ 
-    "^([mM][Ee])$" 
+    "^(موقعي)$" 
 }, 
 run = beko 
 } 
