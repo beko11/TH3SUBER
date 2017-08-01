@@ -50,12 +50,9 @@ return {
     "كمبي",
 	"كوم بي",
 	"بلاع",
-	"fuck",
- "shit",
 	"كسمك",
 	"سكسي",
 	"سكس",
-	"sexy",
 	"بعثي",
 	"شيعية",
 	"شيعيه",
@@ -83,10 +80,6 @@ return {
 	"انعل ربك",
 	"انعل ربج",
 	"خرب بربج",
-	"كسخت المطور",
-	"كس اخت المطور",
-	"كسم المطور",
-	"كس ام المطور",
 	"عير بختك",
 	"عير بمك",
 
@@ -99,8 +92,4 @@ return {
   pre_process = pre_process
 }
 
---code By @lock_at_me_now & @THS_56
---code By @lock_at_me_now & @THS_56
---code By @lock_at_me_now & @THS_56
---code By @lock_at_me_now & @THS_56
---code By @lock_at_me_now & @THS_56
+--code By @D_1_T
